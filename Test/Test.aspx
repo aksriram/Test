@@ -19,7 +19,7 @@
      <div>
         <div style="margin-left:40px">
             <div class="controlStyle">
-            <asp:Label runat="server">Product Name</asp:Label>
+            <asp:Label runat="server">Product Name is changed </asp:Label>
             <asp:TextBox runat="server" ID="txtProductName"></asp:TextBox>
                 </div>
             <br />
